@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Output files
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.tiff
